@@ -1,0 +1,2 @@
+./chacha20.go
+./chacha20_ref_go19.go

@@ -1,0 +1,8 @@
+./auth_basic.go
+./auth_digest.go
+./auth_ntlm.go
+./http_authenticator.go
+./proxy_http.go
+./proxy_socks4.go
+./transport_proxy_auth.go
+./upstreamproxy.go

@@ -1,0 +1,6 @@
+./char_class.go
+./generator_error.go
+./internal_generator.go
+./regen.go
+./regexp_format.go
+./rng.go
